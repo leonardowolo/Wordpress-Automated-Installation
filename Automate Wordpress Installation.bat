@@ -20,5 +20,5 @@ echo 5. Open WordPress in web browser
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" "http://localhost/wordpress/%project_new%" >nul
 
 echo.
-echo Ready! Press enter to continue.
+echo Ready! Press enter to close the window...
 pause >nul
